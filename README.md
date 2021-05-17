@@ -16,3 +16,5 @@ If all the inputs are not correctly filled then, it will prevent from submiting 
   Passwords are not same.
   
 Basically, validation makes sure that the provided text is in the right format (e.g., for email, user@something.com), and if the text fits the qualifications for a suitable entry (e.g., the email isn’t already registered, or the password fits the criteria).
+
+[Preview of website!](https://rohit-singh19.github.io/Validate-form/)
